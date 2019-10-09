@@ -16,7 +16,7 @@ if a file contains a comment with text like:
 ##STATUSBAR message to show in a status bar
 
 it will be show as a message of corresponding type when you open a file. The message will be shown only once per VS code session (unless you specify ALWAYS).
-i.e. if you close and open the file again, the will not be shown.
+i.e. if you close and open the file again, the message will not be shown.
 
 if the comment contains :ALWAYS suffix, the message will be shown on every opening of the file.
 
@@ -41,6 +41,8 @@ Just add the following line to your source code file:
 // ##ERROR:ALWAYS This is a test error message that will be shown to anyone who opens the file.
 
 then close and re-open the file.
+
+![demo of the extension work](https://raw.githubusercontent.com/Eugene-BB/DevAlert/branch/images/sst.gif)
 
 ## Release Notes
 
