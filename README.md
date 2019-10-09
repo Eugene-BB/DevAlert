@@ -42,7 +42,7 @@ Just add the following line to your source code file:
 
 then close and re-open the file.
 
-![demo of the extension work](https://raw.githubusercontent.com/Eugene-BB/DevAlert/branch/images/sst.gif)
+![demo of the extension work](https://raw.githubusercontent.com/Eugene-BB/DevAlert/master/images/sst.gif)
 
 ## Release Notes
 
